@@ -1,4 +1,4 @@
-# bigger_number_game
+# Bigger Number Game
 
 A new Flutter project.
 
